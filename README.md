@@ -12,10 +12,6 @@ Setting :
 
 4.2 enter database connection options
 
-5 - open "files" folder
+5 - now You ought to run script on  page of your hosting and waiting some time till you could see reload symbol of current page.
 
-5.1 - copy paste your xml files in  folder
-
-6 - now You ought to run script on  page of your hosting and waiting some time till you could see reload symbol of current page.
-
-6.1 - go to db
+5.1 - go to db
